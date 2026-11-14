@@ -1,0 +1,10 @@
+# Archivos de configuración de IntelliJ IDEA
+.idea/
+*.iml
+
+# Archivos compilados de Java
+*.class
+
+# Carpetas de compilación
+target/
+bin/
